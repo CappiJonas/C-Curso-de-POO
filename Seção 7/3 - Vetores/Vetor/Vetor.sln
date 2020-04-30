@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetor", "Vetor.csproj", "{F294D50B-3147-4E21-B745-482C95A24A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe", "..\Classe\Classe.csproj", "{26BFB027-C827-4435-978F-24D72B198EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F294D50B-3147-4E21-B745-482C95A24A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F294D50B-3147-4E21-B745-482C95A24A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F294D50B-3147-4E21-B745-482C95A24A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F294D50B-3147-4E21-B745-482C95A24A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BFB027-C827-4435-978F-24D72B198EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BFB027-C827-4435-978F-24D72B198EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BFB027-C827-4435-978F-24D72B198EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BFB027-C827-4435-978F-24D72B198EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E346AE0-FBBA-4B83-B8DF-842EEDFED511}
+	EndGlobalSection
+EndGlobal
