@@ -13,8 +13,8 @@ namespace Introducao_LINQ
 
             // Define the query
                 /*var*/
-            IEnumerable<int> result = numbers
-                            .Where(x => x % 2 == 0)
+            IEnumerable<int> result = numbers       // = recebe
+                            .Where(x => x % 2 == 0) // => tal que
                             .Select(x => x * 10);
 
             // Execute Query

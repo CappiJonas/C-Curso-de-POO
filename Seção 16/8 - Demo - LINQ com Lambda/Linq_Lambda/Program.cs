@@ -73,7 +73,7 @@ namespace Linq_Lambda
             Console.WriteLine($"Max price: {r10}");
             Console.WriteLine();
 
-            var r11 = products.Min(p => p.Price); //Pegar o máximo
+            var r11 = products.Min(p => p.Price); //Pegar o mínimo
             Console.WriteLine($"Min price: {r11}");
             Console.WriteLine();
 
